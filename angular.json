@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myFirstAngluarProject"
+    }
+  },
+  "defaultProject": "myFirstAngluarProject",
+  "cli": {
+    "analytics": "dd843537-d159-42fd-8471-293390b258d6"
+  }
 }
